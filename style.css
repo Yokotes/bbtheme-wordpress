@@ -578,6 +578,10 @@ body {
     font-size: 1.125rem;
 }
 
+.post-page__content figure, .post-page__content img {
+    height: unset;
+}
+
 .post-page__cat-date {
     margin-top: 60px;
 }
